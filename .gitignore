@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+cache_modelo/
+*.pkl
+*.dta
+.env
+.ipynb_checkpoints/

@@ -1,0 +1,9 @@
+numpy
+pandas
+scipy
+requests
+openpyxl
+matplotlib
+reportlab
+# opcional, solo para los embeddings de YouTube del modelo:
+sentence-transformers
